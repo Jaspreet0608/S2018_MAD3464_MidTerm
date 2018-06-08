@@ -22,7 +22,7 @@ public class Main {
     lst.reverse("Lambton");
     
             
-String binaryString="10001"  ; 
+String binaryString="111111"  ; 
 
 
 
