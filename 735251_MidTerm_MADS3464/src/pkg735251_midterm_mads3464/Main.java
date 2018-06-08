@@ -22,10 +22,17 @@ public class Main {
     lst.reverse("Lambton");
     
             
-String binaryString="1000";  
+String binaryString="10001"  ; 
+
+
+
 int decimal=Integer.parseInt(binaryString,2);  
-System.out.println(decimal);  
-}}  
+System.out.println(decimal); 
+
+  
+ 
+}
+}  
 
     
    
