@@ -18,17 +18,8 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       /* LambtonStringTools lst = new LambtonStringTools();
-    lst.reverse("Lambton");
-    */
-            /*
-String binaryString="111111"  ; 
+      
 
-
-
-int decimal=Integer.parseInt(binaryString,2);  
-System.out.println(decimal); 
-*/
   
       System.out.println(StringReverse.reverse("Lambton"));
         System.out.println("" + BinaryDecimal.binaryToDecimal("1000"));
@@ -98,12 +89,12 @@ class SubString {
         return s1;
     }
 
-  
+}
 
     
    
 
-}
+
 
         
  
