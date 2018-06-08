@@ -5,6 +5,8 @@
  */
 package pkg735251_midterm_mads3464;
 
+import java.util.Scanner;
+
 
 /**
  *
@@ -18,12 +20,21 @@ public class Main {
     public static void main(String[] args) {
         LambtonStringTools lst = new LambtonStringTools();
     lst.reverse("Lambton");
-    }
+    
+            
+String binaryString="1000";  
+int decimal=Integer.parseInt(binaryString,2);  
+System.out.println(decimal);  
+}}  
+
+    
+   
+
+}
 }
         
  
-        
-     
+
       
     
         
